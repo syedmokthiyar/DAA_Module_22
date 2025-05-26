@@ -15,9 +15,9 @@ To find the minimum number of operations to convert str1 to str2 using Naive rec
 
 ## Program:
 
-Developed by: GANESH R
+Developed by: Syed Mokthiyar S M
 
-Register Number:  212222240029
+Register Number:  212222230156
 
 ```python
 def LD(s, t):
