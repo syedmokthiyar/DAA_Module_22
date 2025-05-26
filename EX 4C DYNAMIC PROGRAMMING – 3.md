@@ -15,9 +15,10 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 
 ## Program:
 
-Developed by: GANESH R
+Developed by: Syed Mokthiyar S M
+ 
 
-Register Number:  212222240029
+Register Number:  212222230156
 ```python
 dp = [[-1 for i in range(1001)]for j in range(1001)]
 def lps(s1, s2, n1, n2):
