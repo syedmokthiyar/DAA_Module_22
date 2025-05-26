@@ -11,9 +11,9 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 3. Find the maximum length in the table.
 4. Extract the substring(s) corresponding to the maximum length.
 ## Program:
-Developed by: GANESH R
+Developed by: Syed Mokthiyar S M
 
-Register Number:  212222240029
+Register Number:  212222230156
 
 ```python
 def LCS(X, Y, m, n):
